@@ -4,7 +4,7 @@
   "description": "NuSOAP for Livestocker",
   "keywords": ["soap","nusoap"],
   "require": {
-    "php": ">=5.4"
+    "php": ">=8.1"
   },
   "require-dev": {
     "jakub-onderka/php-parallel-lint": "~1.0.0"
